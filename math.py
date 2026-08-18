@@ -7,3 +7,6 @@ print("\t", 16/2)
 print("\n20-12")
 print("\t", 20-12)
 
+print(f"\n\n\n4+4 = {4+4}")
+
+#it seemed to take a long time to commit and pus these changes
