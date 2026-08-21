@@ -23,3 +23,14 @@ print(f"\n\n\n4+4 = {4+4}")
 
 #update from chris's work machine with Ashmeeta here.
 #Line 24 would not this
+
+
+# Order of operations:
+# 1. Make changes to file
+# 2. Save changes
+# 3. Click Soure Control on the left
+# 4. Click the + sign to stage changes
+# 5. DO NOT FORGET TO ADD A MESSAGE BEFORE COMMITTING
+# 6. Click the check mark to commit changes
+
+#  
