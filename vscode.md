@@ -2,7 +2,7 @@
 
 # Order of operations:
 # 0: Install GitHub Desktop from Company Portal
-# 1. Make changes to file
+# 1. Make changes to file (might want to mention that the repo has to already be cloned/synced down)
 # 2. Save changes
 # 3. Click Soure Control on the left
 # 4. Click the + sign to stage changes
