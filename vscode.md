@@ -1,4 +1,4 @@
-
+## here are instructions on how to use VS Code source control features.
 
 # Order of operations:
 # 0: Install GitHub Desktop from Company Portal
