@@ -14,5 +14,9 @@
 This is a test change by Nathan Tieu
 
 # I see the change - Chris O
+<<<<<<< HEAD
 
 #this is a new test
+=======
+# 9/16 test again
+>>>>>>> 7d903667545cb3a71c71a469299ccd3bee078c46
